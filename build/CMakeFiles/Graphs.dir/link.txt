@@ -1,0 +1,2 @@
+C:\msys64\mingw64\bin\ar.exe qc libGraphs.a CMakeFiles/Graphs.dir/Graphs/Traversal.cpp.obj
+C:\msys64\mingw64\bin\ranlib.exe libGraphs.a

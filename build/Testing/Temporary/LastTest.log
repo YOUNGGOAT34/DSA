@@ -1,0 +1,19 @@
+Start testing: Oct 08 10:49 E. Africa Standard Time
+----------------------------------------------------------
+Unable to find executable: C:/Users/Admin/Desktop/DSA in c++/build/test_hasPath.exe
+1/1 Testing: TestHasPath
+1/1 Test: TestHasPath
+Command: ""
+Directory: C:/Users/Admin/Desktop/DSA in c++/build
+"TestHasPath" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"TestHasPath" end time: Oct 08 10:49 E. Africa Standard Time
+"TestHasPath" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 08 10:49 E. Africa Standard Time

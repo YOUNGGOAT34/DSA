@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Admin/Desktop/DSA in c++/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe   -g -std=gnu++23 -o CMakeFiles\\main.dir\\main.cpp.obj -c \"C:\\Users\\Admin\\Desktop\\DSA in c++\\main.cpp\"",
+  "file": "C:/Users/Admin/Desktop/DSA in c++/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.obj"
+}
+]

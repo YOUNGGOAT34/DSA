@@ -1,0 +1,3 @@
+TestHasPath 0 0
+---
+TestHasPath
